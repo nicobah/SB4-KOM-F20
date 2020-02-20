@@ -8,7 +8,6 @@
     <modules>
         <module>Common</module>
         <module>Player</module>
-        <module>Enemy2</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
